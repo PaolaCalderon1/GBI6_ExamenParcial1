@@ -1,7 +1,7 @@
 # GBI6_ExamenParcial1
-##Examen parcial 1
-*Paola Fernanda Calderón Oñate*
-##Caracteristicas del computador
+## Examen parcial 1
+* Paola Fernanda Calderón Oñate*
+## Caracteristicas del computador
 * Nombre del computador: LAPTOP-B8AUT6P2, modelo Lenovo 
 * Procesador: AMD A12-9720P RADEON R7, 12 COMPUTE CORES 4C+8G   2.70 GHz
 * Ram instalada : 8,00 GB (7,39 GB utilizable)
