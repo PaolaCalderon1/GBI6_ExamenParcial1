@@ -14,12 +14,8 @@
 * Anaconda - Jupyter
 * Git hub
 ## Explicación de la data 
-**Ejercicio 1.10.1 Next Generation Sequencing Data** 
-* En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix es excelente para manipular los enormes archivos FASTA que se generan en los experimentos NGS. Los archivos FASTA contienen datos de secuencia en formato de texto. Cada segmento de secuencia está precedido por una descripción de una sola línea. El primer carácter de la línea de descripción es un signo de “mayor que” (>).15. El conjunto de datos de NGS con el que trabajaremos fue publicado por Marra y DeWoody (2014), quienes investigaron el repertorio inmunogenético de los roedores. Encontrará el archivo de secuencia Marra2014_data.fasta en el directorio CSB/unix/data. El archivo contiene segmentos de secuencia (contigs) de tamaño variable. La descripción de cada contig proporciona su longitud, el número de lecturas que contribuyó al contig, su isogrupo (que representa la colección de productos de empalme alternativos de un posible gen) y el estado de isotig.
-1. Cambie el directorio a CSB/unix/sandbox.
-2. ¿Cuál es el tamaño del archivo Marra2014_data.fasta?
-3. Cree una copia de Marra2014_data.fasta en la zona de pruebas y asígnele el nombre my_file.fasta.
-4. ¿Cuántos contigs se clasifican como isogrupo00036?
-5. Reemplace el delimitador original de "dos espacios" con una coma.
-6. ¿Cuántos isogrupos únicos hay en el archivo?
-7. ¿Qué contig tiene el mayor número de lecturas (numreads)? ¿Cuántas lecturas tiene?
+Para la resolucion de los ejercicios se uso la siguiente data:
+* Ejercicio 1, 2 y 3 se uso git bash
+* Ejercio 4 se uso un archivo de excel tipo .csv
+* Ejercicio 5 se uso un archivo tipo fasta 
+* Ejercicio 6,7 y 8 se uso jupyter
