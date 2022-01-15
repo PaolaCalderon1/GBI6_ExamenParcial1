@@ -16,6 +16,6 @@
 ## Explicación de la data 
 Para la resolucion de los ejercicios se uso la siguiente data:
 * Ejercicio 1, 2 y 3 se uso git bash
-* Ejercio 4 se uso un archivo de excel tipo .csv
-* Ejercicio 5 se uso un archivo tipo fasta 
-* Ejercicio 6,7 y 8 se uso jupyter
+* Ejercio 4 se uso un archivo de excel tipo .csv que contenia datos de crecimiento de un bosque de costa rica
+* Ejercicio 5 se uso un archivo tipo fasta que contenia secuenciamiento
+* Ejercicio 6,7 y 8 se uso jupyter y datos del albabeto, archivo excel donde estaban datos sobre el sueño de los mamiferos, datos de una tabla de git hub donde habia marcas de carros 
